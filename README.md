@@ -1,4 +1,4 @@
-# InClass 1 - Your First Application and Introduction to Git
+# InClass 2 - Building upon the first application.
 
 ## Author
 
